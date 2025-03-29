@@ -1,0 +1,57 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color: darkgreen;
+}
+.article_img{
+    object-fit: cover;
+    width: 500px;
+    height:auto;
+}
+#main_article{
+    position: relative;
+    display: flex;
+    justify-content:center;
+    width: 100%;
+}
+#main_article p{
+    position: absolute;
+    top: 0px;
+}
+h1{
+    display: flex;
+    justify-content:center;
+    width: 100%;
+}
+.Evolucion{
+    width: 100px;
+    height: auto;
+    margin: 0px 20px;
+    display: inline;
+}
+h2{
+    display: flex;
+    justify-content:center;
+    width: 100%;
+}
+#jp3{
+    width: 110px;
+    height: auto;
+}
+#a{
+    width: 100px;
+    height:110px;
+}
+#u{
+    width: 100px;
+    height:110px;
+}
+#v{
+    width: 100px;
+    height:110px;
+}
+.Evolucion_s{
+    display: flex;
+    flex-direction: row;
+}
+
